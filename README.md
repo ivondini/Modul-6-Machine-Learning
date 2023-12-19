@@ -1,3 +1,6 @@
+## Author
+- Ivon Viqro Dini
+
 
 # Rock-Paper-Scissors Simple Prediction App
 
@@ -62,8 +65,3 @@ flask run
 
 This simple program serves as an exemplary reference for users, providing a foundation for further exploration or as a stepping stone for more advanced research that could yield more sophisticated products. The code's simplicity makes it accessible for users to understand its basic structure and functionality, potentially inspiring them to extend its capabilities or integrate it into more complex applications. Whether used as a learning tool, a reference point, or the starting point for advanced research, this program offers versatility and adaptability to cater to diverse user needs in the realm of software development.
 
-## Author
-
-### machine learning
-
-Frederick Huisand Sutirto
